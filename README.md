@@ -22,7 +22,7 @@ Response:
 
 ```
 
-Usage:
+Usage =>
 
 Request:
 
@@ -31,7 +31,7 @@ localhost:8080/a7acb5
 
 ```
 
-Repsonse:
+Response:
 
 ```
 [
